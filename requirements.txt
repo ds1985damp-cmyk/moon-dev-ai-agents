@@ -39,7 +39,7 @@ bitarray==3.4.3
 bleach==6.1.0
 blessed==1.20.0
 blinker==1.8.2
-bokeh==3.4.0
+bokeh==3.8.2
 borsh-construct==0.1.0
 boto3==1.40.0
 botocore==1.40.0
