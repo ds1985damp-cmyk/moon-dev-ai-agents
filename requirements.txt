@@ -210,7 +210,7 @@ lz4==4.4.4
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-marshmallow==3.26.1
+marshmallow==3.26.2
 marshmallow-oneofschema==3.2.0
 marshmallow_dataclass==8.7.1
 matplotlib==3.7.1
