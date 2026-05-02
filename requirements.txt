@@ -2,7 +2,7 @@ absl-py==2.1.0
 aiodns==3.2.0
 aiofiles==24.1.0
 aiohappyeyeballs==2.6.1
-aiohttp==3.10.11
+aiohttp==3.13.3
 aiohttp-retry==2.9.1
 aiosignal==1.4.0
 anchorpy==0.20.1
