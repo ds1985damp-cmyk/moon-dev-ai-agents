@@ -205,7 +205,7 @@ litellm==1.40.8
 llvmlite @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_22a8mvi_vz/croot/llvmlite_1720455324093/work
 loky==3.4.1
 lru-dict==1.2.0
-lxml==5.2.1
+lxml==6.1.0
 lz4==4.4.4
 Markdown==3.6
 markdown-it-py==3.0.0
