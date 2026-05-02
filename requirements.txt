@@ -237,7 +237,7 @@ nbconvert==7.16.4
 nbformat==5.10.4
 nest-asyncio==1.6.0
 networkx==3.3
-nltk==3.8.1
+nltk==3.9.4
 noise==1.2.2
 notebook==7.2.0
 notebook_shim==0.2.4
