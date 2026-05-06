@@ -216,7 +216,7 @@ marshmallow_dataclass==8.7.1
 matplotlib==3.7.1
 matplotlib-inline==0.1.7
 mdurl==0.1.2
-mistune==3.0.2
+mistune==3.2.1
 ml-dtypes==0.3.2
 moralis==0.1.49
 more-itertools==8.14.0
