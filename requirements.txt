@@ -557,7 +557,7 @@ stanio==0.5.1
 starknet-py==0.27.0
 starlette==0.41.3
 statsmodels==0.14.2
-streamlink==7.5.0
+streamlink==8.4.0
 StrEnum==0.4.15
 sumtypes==0.1a6
 sympy==1.12
