@@ -498,7 +498,7 @@ pytest-mock==3.14.1
 python-dateutil==2.8.2
 python-dotenv==1.0.0
 python-json-logger==2.0.7
-python-multipart==0.0.22
+python-multipart==0.0.31
 pytube==15.0.0
 pytweening==1.2.0
 pytz==2025.2
