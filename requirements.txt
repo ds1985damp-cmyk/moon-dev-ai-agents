@@ -66,7 +66,7 @@ construct==2.10.68
 construct-typing==0.5.6
 contourpy==1.2.0
 crypto_cpp_py==1.4.5
-cryptography==42.0.5
+cryptography==48.0.1
 cssselect==1.2.0
 ctranslate2==4.6.0
 cycler==0.12.1
