@@ -300,7 +300,7 @@ py_clob_client==0.23.0
 py_order_utils==0.3.2
 pyaml==24.4.0
 pyarrow @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_36v5ad2oyu/croot/pyarrow_1721673857195/work/python
-pyasn1==0.6.0
+pyasn1==0.6.4
 pyasn1_modules==0.4.0
 PyAudio==0.2.14
 PyAutoGUI==0.9.54
