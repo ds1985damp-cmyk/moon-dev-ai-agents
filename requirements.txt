@@ -549,7 +549,7 @@ solders==0.21.0
 sortedcontainers==2.4.0
 sounddevice==0.4.6
 soundfile==0.12.1
-soupsieve==2.5
+soupsieve==2.8.4
 SpeechRecognition==3.10.4
 sse-starlette==2.2.1
 stack-data==0.6.3
